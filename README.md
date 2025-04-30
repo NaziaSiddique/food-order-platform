@@ -2,7 +2,7 @@
 
 A multi-tenant food ordering system designed for restaurants, takeaways, and food vendors.
 
-## 💡 Project Goals
+## Project Goals
 
 - Allow each customer (restaurant) to have a unique frontend (design + domain)
 - Centralized backend (plugin-like API) that powers all clients
@@ -11,7 +11,7 @@ A multi-tenant food ordering system designed for restaurants, takeaways, and foo
 - Real-time order updates and backend receipt integration
 - Built-in support for future features like reporting, sales, analytics, and accounting
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer          | Tech                |
 |----------------|---------------------|
@@ -21,5 +21,5 @@ A multi-tenant food ordering system designed for restaurants, takeaways, and foo
 | Hosting        | Vercel + Render/Railway or AWS (TBD) |
 | Auth           | OAuth2 + JWT        |
 
-## 📁 Project Structure
+## Project Structure
 
